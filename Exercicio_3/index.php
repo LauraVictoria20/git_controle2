@@ -9,7 +9,7 @@
 
 <!--Formulário de Verificação de nota-->
 <div class="Controle">
-    <h2>Controle de Desempenho Mensal</h2>
+    <h2>Controle de Desempenho presídio</h2>
 
   <form action="calcula.php" method="post">
         <!--Nome-->
