@@ -15,6 +15,9 @@ if(isset($_POST['tarefas'])){
     else if($_POST['tarefas'] == 10 || $_POST['tarefas'] >=19 && $_POST['atrasos'] >= 2 || $_POST['atrasos'] == 3){
      echo "Desempenho Regular!" ;
     }
+    else if($_POST['tarefas'] > 30 && $_POST['atrasos'] > 34){
+     echo "Funcionário demitido!" ;
+    }
     else{
      echo "Desempenho Insatisfatório!";
   }
