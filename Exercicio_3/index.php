@@ -10,8 +10,8 @@
 <!--Formulário de Verificação de nota-->
 <div class="Controle">
     <h2>Controle de Desempenho Mensal</h2>
-0
-  <form action="calcula.php" method="post">
+
+  <form action="caucula.php" method="post">
         <!--Nome-->
          <label for="nome">Nome</label>
          <input type="text" name="nome" placeholder="Digite seu nome">
