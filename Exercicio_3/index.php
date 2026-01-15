@@ -9,7 +9,7 @@
 
 <!--Formulário de Verificação de nota-->
 <div class="Controle">
-    <h2>Controle de Desempenho Mensal</h2>
+    <h2>Controle de Desempenho Mensal dos funcionários!</h2>
 
   <form action="caucula.php" method="post">
         <!--Nome-->
