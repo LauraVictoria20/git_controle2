@@ -1,4 +1,3 @@
-
 <!--Lógica de Verificação-->
 
 <?php
@@ -14,9 +13,6 @@ if(isset($_POST['tarefas'])){
     }
     else if($_POST['tarefas'] == 10 || $_POST['tarefas'] >=19 && $_POST['atrasos'] >= 2 || $_POST['atrasos'] == 3){
      echo "Desempenho Regular!" ;
-    }
-     else if($_POST['tarefas'] > 25 || $_POST['tarefas'] && $_POST['atrasos'] == 0){
-     echo "Funcionário elegível para bônus!" ;
     }
     else{
      echo "Desempenho Insatisfatório!";
