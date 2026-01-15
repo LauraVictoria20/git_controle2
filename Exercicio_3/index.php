@@ -10,7 +10,7 @@
 <!--Formulário de Verificação de nota-->
 <div class="Controle">
     <h2>Controle de Desempenho Mensal</h2>
-
+0
   <form action="calcula.php" method="post">
         <!--Nome-->
          <label for="nome">Nome</label>
