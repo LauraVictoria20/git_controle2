@@ -22,6 +22,10 @@
          <label for="nome">Atrasos</label>
          <input type="number" name="atrasos" placeholder="Digite o número de atrasos por mês">
 <br>
+ <!--Setor do Funcionário-->
+         <label for="nome">Setor do Funcionário</label>
+         <input type="text" name="setor" placeholder="Digite o seu setor">
+<br>
         <!--Botão-->
          <button class="btn btn-warning">Submeter</button>
   </form>
